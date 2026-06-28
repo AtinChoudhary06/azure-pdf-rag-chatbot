@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+openai
+python-dotenv
+azure-core
+azure-search-documents
+azure-storage-blob
+azure-ai-documentintelligence
