@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # ---- Config ----
-API_BASE_URL = "http://127.0.0.1:8000"  # change this to your deployed FastAPI URL later
+API_BASE_URL = "https://ragbotwebapp-hff7hpczb6a5fjha.koreacentral-01.azurewebsites.net"
 
 st.set_page_config(page_title="PDF RAG Chatbot", page_icon="📄", layout="centered")
 
